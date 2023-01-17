@@ -77,7 +77,7 @@
     </div>
   </div>
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Copyright © 2020 - Hotel Mangement system | <a href="https://www.sourcecodester.com/" target="_blank">Sourcecodester</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Copyright © 2022 | <a href="https://www.instagram.com/androids.comm/" target="_blank">SMK Telkom Malang '29 XII RPL 3</a></div></div>
         </footer>
         
        <?php include('footer.php') ?>
