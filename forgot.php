@@ -40,7 +40,7 @@
 						</div>
 					</div>
 					<div class="footer">
-						Copyright &copy; 2022 &mdash; Moklet XIIR3	
+					Copyright &copy; 2022 &mdash; Moklet XIIR3	
 					</div>
 				</div>
 			</div>
