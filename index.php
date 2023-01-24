@@ -34,7 +34,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php?page=home">Home</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php?page=list">Rooms</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php?page=about">About</a></li>
-                        <a class="btn btn-primary mx-auto" href="login.php" role="button">Sign-in</a>
+                        <li class="nav-item"><a class=" btn btn-primary btn-lg nav-link js-scroll-trigger" href="login.php">Sign-In</a></li>
                     </ul>
                     
                 </div>

@@ -32,7 +32,7 @@
 								</div>
 
 								<div class="form-group m-0">
-									<button type="submit" class="btn btn-primary btn-block">
+									<button type="submit" class="btn btn-warning btn-block">
 										Reset Password
 									</button>
 								</div>
